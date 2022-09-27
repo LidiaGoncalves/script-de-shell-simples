@@ -1,4 +1,5 @@
 # script-de-shell-simples
+#!/bin/bash
 Como criar scripts de shell simples no Linux
 Os scripts de shell desempenham um papel enorme na automação de tarefas repetitivas que, de outra forma, seriam tediosas executando linha por linha.
 
